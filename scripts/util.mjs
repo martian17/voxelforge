@@ -25,7 +25,7 @@ export const paths = {
     assets:    Path.join(__dirname,"../assets"),
     devAssets: Path.join(__dirname,"../dev-assets"),
     test:      Path.join(__dirname,"../test"),
-    tmp:       Path.join(os.tmpdir(),"slimejs"),
+    tmp:       Path.join(os.tmpdir(),"voxelforge"),
     homedir
 };
 

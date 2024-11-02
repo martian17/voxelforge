@@ -29,7 +29,7 @@ import McVersions from "./mc-versions.mjs";
 
 
 import os from "os";
-const tmpdir = Path.join(os.tmpdir(),"slimejs");
+const tmpdir = Path.join(os.tmpdir(),"voxelforge");
 
 
 
